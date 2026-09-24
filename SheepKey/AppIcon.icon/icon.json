@@ -1,0 +1,11 @@
+{
+  "fill" : { "linear-gradient" : [ "extended-srgb:0.043,0.502,0.663,1.000", "extended-srgb:0.020,0.337,0.451,1.000" ] },
+  "groups" : [
+    {
+      "layers" : [
+        { "glass" : false, "image-name" : "sheepkey-artwork.png" }
+      ]
+    }
+  ],
+  "supported-platforms" : { "squares" : [ "macOS" ] }
+}

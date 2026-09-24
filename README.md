@@ -14,9 +14,9 @@ your remote-desktop apps is frontmost. Everywhere else on the Mac nothing change
 
 ## ⬇️ Download
 
-[![Download SheepKey for macOS](https://img.shields.io/badge/Download-SheepKey_1.0_%280%29_for_macOS-2ea44f?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/bestonehxh/SheepKey/releases/latest)
+[![Download SheepKey for macOS](https://img.shields.io/badge/Download-SheepKey_1.0_%289%29_for_macOS-2ea44f?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/bestonehxh/SheepKey/releases/latest)
 
-**[Get the latest release →](https://github.com/bestonehxh/SheepKey/releases/latest)** — download `SheepKey-1.0-0.zip`, unzip, and drag **SheepKey.app** into `Applications`.
+**[Get the latest release →](https://github.com/bestonehxh/SheepKey/releases/latest)** — download `SheepKey-1.0-9.zip`, unzip, and drag **SheepKey.app** into `Applications`.
 
 > The build is unsigned (not notarized), so macOS will warn on first launch —
 > right-click the app and choose **Open**, or run
